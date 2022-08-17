@@ -2,7 +2,7 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import NavBar from 'react-bootstrap/Navbar';
 
-import Logo from '../assets/images/burger-logo.png';
+import Logo from '../../assets/images/burger-logo.png';
 function Navbar() {
   return (
     <NavBar collapseOnSelect expand="lg" bg="dark" variant="dark">
